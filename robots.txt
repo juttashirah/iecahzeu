@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kuayaaxoo.popori.ru/sitemap.xml
